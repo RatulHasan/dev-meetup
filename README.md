@@ -13,9 +13,6 @@ $ git clone https://github.com/RatulHasan/dev-meetup.git
 # go into app's directory
 $ cd <directory-name>
 
-# install composer dependencies
-$ composer install
-
 # install app's dependencies
 $ npm install
 ```
@@ -23,11 +20,6 @@ $ npm install
 ## Usage
 
 ``` bash
-# serve with reload at localhost:8000
-php artisan serve
-
-# serve with hot reload at localhost:8000
-php artisan hot
 
 # compile project with npm
 npm run watch
