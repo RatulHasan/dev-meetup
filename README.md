@@ -8,7 +8,7 @@
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/RatulHasan/laravel-vue-admin-skeleton.git
+$ git clone https://github.com/RatulHasan/dev-meetup.git
 
 # go into app's directory
 $ cd <directory-name>
